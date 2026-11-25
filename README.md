@@ -66,7 +66,7 @@
 
 AccrueDev provides a hands‑on course and an agent store for building AI assistants that run on Claude Code, Anthropic’s command‑line coding assistant. The platform offers ready‑made agents, skills, and commands, along with a memory system, delegation architecture, quality‑gate checks, and production‑ready deployment tools. Users can purchase the course, subscribe to the agent store, and integrate the tools via the accruedev CLI to create, test, and maintain AI‑driven workflows.
 
-**Areas:** AI · Education · Tools · Claude · Platform
+**Areas:** Artificial Intelligence · Education · Tools · Claude · Platform
 
 ## AccrueDev on APIs.io
 
@@ -84,13 +84,13 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Accruedev Com Domain Security](https://apis.io/security/accruedev-com/accruedev-com-domain-security/)
+- [AccrueDev Domain Security](https://apis.io/security/accruedev-com/accruedev-com-domain-security/)
 
 #### Plans and pricing (1)
 
 Published plans, tiers and prices.
 
-- [Accruedev Com Plans Pricing](https://apis.io/plans/accruedev-com/accruedev-com-plans-pricing/)
+- [AccrueDev Plans Pricing](https://apis.io/plans/accruedev-com/accruedev-com-plans-pricing/)
 
 ## Where to find this API
 
@@ -105,18 +105,18 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 24.3** — emerging · rubric 0.25.0 · scored 2026-10-31
+**Kin Score 24.4** — emerging · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 57.1 |
+| Discoverability | 64.3 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
-| Operational transparency | 15.8 |
+| Operational transparency | 14.3 |
 | Developer ergonomics | 23.1 |
-| Access clarity | 63.7 |
+| Access clarity | 66.0 |
 
-**Agent readiness 6.3** — agent-aware
+**Agent readiness 6.2** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -141,8 +141,12 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 12.7** — Education & Research
+**Regulatory alignment 7.3** — Education & Research
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/accruedev-com/](https://apis.io/providers/accruedev-com/).
 
